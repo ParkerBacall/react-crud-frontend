@@ -88,6 +88,10 @@ button {
   font-size: 16px; 
 }
 
+button:hover {
+  background-color: gray;
+}
+
 .add-dog-form input {
   border: solid;
     width: 70%;
